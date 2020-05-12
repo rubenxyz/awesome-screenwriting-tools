@@ -21,6 +21,9 @@
 - [Fountain Package](https://atom.io/packages/fountain) – Atom package for syntax highlighting and utilities for Fountain
 - [Fountain.vim](https://github.com/JenniferMack/fountain.vim) – Fountain.vim for using Fountain plain text markup format with Vim  
 - [Fountain-Mode](https://github.com/rnkn/fountain-mode) – Fountain Mode for GNU Emacs 
+
+## Misc Add-Ons
+
 - [Goyo.vim](https://github.com/junegunn/goyo.vim) - Vim plugin for distraction free writing  
 
 ## Online Tools
