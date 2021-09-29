@@ -1,6 +1,6 @@
-# Awesome Screenwriting Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Filmmaking Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of delightful screenwriting tools and resources.
+> A curated list of delightful filmmaking tools and resources.
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
@@ -17,6 +17,10 @@
 - [Git](https://git-scm.com/) – Version-control system for tracking changes in code during development
 
 ## Atom Packages
+
+- [Fountain Package](https://atom.io/packages/fountain) – Atom package for syntax highlighting and utilities for Fountain
+
+## Visual Studio Code Packages
 
 - [Fountain Package](https://atom.io/packages/fountain) – Atom package for syntax highlighting and utilities for Fountain
 
