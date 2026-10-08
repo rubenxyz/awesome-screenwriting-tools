@@ -42,6 +42,7 @@
 - [Text Mechanic](https://textmechanic.com/) – Don't want to use RegEx? Here is your saviour for manipulating text
 - [Text Fixer](https://www.textfixer.com/) – Also a decent online text manipulator.
 - [Behind The Name](http://www.behindthename.com/random/) – Advanced character name generator
+- [Fonte](https://github.com/ricolandia/Fountain-Writer-Tool) - Free, offline, open-source Fountain screenplay editor (web + desktop) with a cultural-project module for grant applications
 
 ## Online Resources: Theory
 
