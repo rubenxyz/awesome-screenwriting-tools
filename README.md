@@ -43,6 +43,7 @@
 - [Text Fixer](https://www.textfixer.com/) – Also a decent online text manipulator.
 - [Behind The Name](http://www.behindthename.com/random/) – Advanced character name generator
 - [Fonte](https://github.com/ricolandia/Fountain-Writer-Tool) - Free, offline, open-source Fountain screenplay editor (web + desktop) with a cultural-project module for grant applications
+- [RelationCanvas](https://relationcanvas.com/) - Free web app for charting how the characters in a script relate, with a separate labeled arrow for each direction; exports PNG or SVG, no sign-up
 
 ## Online Resources: Theory
 
