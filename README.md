@@ -99,6 +99,7 @@ Full programs for writing a script. All of these have public source on GitHub.
 - [Text Mechanic](https://textmechanic.com/) – Don't want to use RegEx? Here is your saviour for manipulating text
 - [Text Fixer](https://www.textfixer.com/) – Also a decent online text manipulator.
 - [Behind The Name](http://www.behindthename.com/random/) – Advanced character name generator
+- [Name Awesome](https://nameawesome.com/) - Check how popular a first name was in any U.S. decade since 1880, handy for period-appropriate character names
 - [Fonte](https://github.com/ricolandia/Fountain-Writer-Tool) - Free, offline, open-source Fountain screenplay editor (web + desktop) with a cultural-project module for grant applications
 - [RelationCanvas](https://relationcanvas.com/) - Free web app for charting how the characters in a script relate, with a separate labeled arrow for each direction; exports PNG or SVG, no sign-up
 
