@@ -122,6 +122,7 @@ Tools for outline, characters, and long-form story — novels as well as scripts
 - [Blender Screenwriter](https://github.com/tin2tin/Blender_Screenwriter) - From script pages to 3D scenes inside Blender
 - [ScriptBreak](https://github.com/wassermanproductions/scriptbreak) - Break a script into scenes, elements, bibles, shot lists, and a timeline
 - [SceneFlow](https://github.com/taruma/SceneFlow) - Line up a screenplay with picture, and check that the cut matches the script
+- [Script Breakdown](https://www.inkwell.software/tools/script-breakdown) - Scene sheets, page eighths, cast and locations from a Fountain or FDX script, with CSV export, in the browser
 
 ## Interactive storytelling
 
