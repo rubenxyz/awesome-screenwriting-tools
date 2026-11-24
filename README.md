@@ -52,6 +52,7 @@ Full programs for writing a script. All of these have public source on GitHub.
 - [Wrap](https://wraparound.github.io/) - CLI-app that converts files written in Fountain to screenplay PDF
 - [scripttool](https://rsdoiel.github.io/scripttool) - Convert between screenplay formats (Fountain, Final Draft, Fade In, and others)
 - [pandoc-fountain](https://github.com/pandoc/pandoc-fountain) - Read Fountain files with Pandoc
+- [FDX Inspect](https://github.com/inkwell-app/fdx-inspect) - CLI that reports a Final Draft file's scenes, revisions and locked pages, as text or JSON
 - [Sed](https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/) – Searching, find and replace, insertion or deletion
 - [Git](https://git-scm.com/) – Version-control system for tracking changes in code during development
 
