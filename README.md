@@ -103,6 +103,7 @@ Full programs for writing a script. All of these have public source on GitHub.
 - [RandomGeneratr](https://randomgeneratr.com/) - Generate fictional character and place names for story drafts.
 - [Fonte](https://github.com/ricolandia/Fountain-Writer-Tool) - Free, offline, open-source Fountain screenplay editor (web + desktop) with a cultural-project module for grant applications
 - [RelationCanvas](https://relationcanvas.com/) - Free web app for charting how the characters in a script relate, with a separate labeled arrow for each direction; exports PNG or SVG, no sign-up
+- [AISP](https://tryaisp.com) - Turns a story idea into episodes with consistent characters
 
 ## Story development
 
